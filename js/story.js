@@ -1,0 +1,2 @@
+
+var newPlayer = player.init();
